@@ -1,0 +1,40 @@
+Uri: http://new.cqut-helper.top/
+File Name: D:\copy\new.cqut-helper.top\index.html
+Content Type: text/html
+
+Uri: http://new.cqut-helper.top/static/index.a5c69d49.css
+File Name: D:\copy\new.cqut-helper.top\static\index.a5c69d49.css
+Content Type: text/css
+
+Uri: http://new.cqut-helper.top/static/js/chunk-vendors.0ca9b8d5.js
+File Name: D:\copy\new.cqut-helper.top\static\js\chunk-vendors.0ca9b8d5.js
+Content Type: application/javascript
+
+Uri: http://new.cqut-helper.top/static/js/index.dd62658e.js
+File Name: D:\copy\new.cqut-helper.top\static\js\index.dd62658e.js
+Content Type: application/javascript
+
+Uri: https://cdn.dcloud.net.cn/img/shadow-grey.png
+File Name: D:\copy\new.cqut-helper.top\img\shadow-grey.png
+Content Type: image/png
+
+Uri: https://cdn.dcloud.net.cn/img/shadow-blue.png
+File Name: D:\copy\new.cqut-helper.top\img\shadow-blue.png
+Content Type: image/png
+
+Uri: https://cdn.dcloud.net.cn/img/shadow-green.png
+File Name: D:\copy\new.cqut-helper.top\img\shadow-green.png
+Content Type: image/png
+
+Uri: https://cdn.dcloud.net.cn/img/shadow-orange.png
+File Name: D:\copy\new.cqut-helper.top\img\shadow-orange.png
+Content Type: image/png
+
+Uri: https://cdn.dcloud.net.cn/img/shadow-red.png
+File Name: D:\copy\new.cqut-helper.top\img\shadow-red.png
+Content Type: image/png
+
+Uri: https://cdn.dcloud.net.cn/img/shadow-yellow.png
+File Name: D:\copy\new.cqut-helper.top\img\shadow-yellow.png
+Content Type: image/png
+
